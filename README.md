@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Web Components, Api Design using Node.js. Also, Angular 2+, Python 3+, R and statistics
+- 🔭 I’m currently working on Web Components, Api Design using Node.js. Also, Angular, Python 3+, R and statistics
 - 🌱 I’m currently learning statistics and machine learning arlgorithms
 - 👯 I’m looking to collaborate on javascript and node.js, python
 - 🤔 I’m looking to work in web development, statistics projects
